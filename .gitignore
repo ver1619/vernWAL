@@ -1,0 +1,19 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Build / generated docs
+site/
+build/
+dist/
